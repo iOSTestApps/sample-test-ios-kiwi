@@ -1,0 +1,3 @@
+target :BitriseTestingSampleTests, :exclusive => true do
+  pod 'Kiwi'
+end
